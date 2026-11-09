@@ -2,7 +2,7 @@
 
 独立检索 ICTR 官网的案件页、新闻稿和公开遗产页面。只访问 `unictr.irmct.org`。
 
-仓库：<https://github.com/GDUFSICCSkills/ICTRSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/ICTRSearcher>（私有）。
 
 ## 1. 环境
 
@@ -11,7 +11,7 @@ Python 3.10+，依赖 `requests`、`beautifulsoup4`、`pypdf`；无需登录。
 ## 2. 安装
 
 ```powershell
-git clone https://github.com/GDUFSICCSkills/ICTRSearcher.git "$env:USERPROFILE\.codex\skills\ICTRSearcher"
+git clone https://github.com/HuiwowICCSkills/ICTRSearcher.git "$env:USERPROFILE\.codex\skills\ICTRSearcher"
 python -m pip install -r "$env:USERPROFILE\.codex\skills\ICTRSearcher\requirements.txt"
 ```
 
