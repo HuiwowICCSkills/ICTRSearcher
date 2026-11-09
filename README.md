@@ -2,7 +2,7 @@
 
 独立检索 ICTR 官网的案件页、新闻稿和公开遗产页面。只访问 `unictr.irmct.org`。
 
-仓库：<https://github.com/HuiwowICCSkills/ICTRSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/ICTRSearcher>（公开）。
 
 ## 1. 环境
 
